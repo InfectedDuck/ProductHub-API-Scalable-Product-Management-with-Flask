@@ -169,4 +169,5 @@ curl http://localhost:5000/products
 ```
 
 ## License
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details. <br>
+This project is made as a part of IBM Course.
