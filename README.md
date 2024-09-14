@@ -48,8 +48,8 @@ Ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/product-catalog-api.git
-    cd product-catalog-api
+    git clone https://github.com/InfectedDuck/ProductHub-API-Scalable-Product-Management-with-Flask.git
+    cd ProductHub-API-Scalable-Product-Management-with-Flask
     ```
 
 2. Set up a virtual environment and install dependencies:
